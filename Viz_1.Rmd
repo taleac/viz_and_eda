@@ -1,8 +1,8 @@
 ---
-title: "Viz and EDA"
+title: "Viz 1"
 #Talea Cornelius
 #09/23/2020
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
